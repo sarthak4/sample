@@ -1,3 +1,2 @@
 # sample
 Industry knowledge
-I
