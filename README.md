@@ -1,2 +1,0 @@
-# sample
-Industry knowledge
